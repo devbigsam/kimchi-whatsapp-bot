@@ -1,0 +1,24 @@
+{
+  "name": "kimchi-whatsapp-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "restaurant",
+    "automation"
+  ],
+  "author": "Samuel (Big Sam)",
+  "license": "ISC",
+  "description": "A WhatsApp business automation bot for Kimchi Restaurant using the WhatsApp Cloud API.",
+  "dependencies": {
+    "@ngrok/ngrok": "^1.5.2",
+    "axios": "^1.12.2",
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
